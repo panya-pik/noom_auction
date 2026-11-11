@@ -1,4 +1,6 @@
-# Draft: User Onboarding Flow (4 steps)
+# M01 · User Onboarding Flow (4 steps)
+
+> ภาพรวมทั้งหมด: [README](./README.md) · ถัดไป: [M02 Product Onboarding](./M02-product-onboarding.md)
 
 ## Context
 Noom Auction (Rails 8, importmap + Stimulus, SQLite, no models/auth yet) needs a first-time user onboarding that collects:
